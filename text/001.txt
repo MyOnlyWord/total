@@ -766,7 +766,7 @@
 //jar+壁纸
 "spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/FXZ08.png;md5;8C299BFD02C92BD8FF10540DBEE1C85A","wallpaper":"https://tool.weetai.cn/api",
 //电视直播
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzY2NjY2L21hby9yYXcvYnJhbmNoL21hc3Rlci9saXZlMjAyMjA4MTMudHh0"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vQ3lyaWwwNTYzL2xhbmppbmdfbGl2ZS9tYWluL1RWYm94X0ZyZWUvTElWRS9GcmVlL3R2Ym94X2xpdmUudHh0"]}]}],
 //解码模式
 "ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":4,"name":"framedrop","value":"1"},
 {"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},
