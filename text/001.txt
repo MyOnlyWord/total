@@ -368,7 +368,7 @@
     }
    }
   },
-{"name":"自测","type":1,"url":"https://jx.xmflv.com/?url="},
+{"name":"自测OK解析","type":1,"url":"https://okjx.cc/?url="},
 {"name":"聚合01","type":3,"url":"Demo"},
 {"name":"并发02","type":2,"url":"Parallel"},
 {"name":"轮询03","type":2,"url":"Sequence"},
